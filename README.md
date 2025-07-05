@@ -111,7 +111,7 @@ Make sure video files are placed inside the `/videos/` folder and paths in scrip
 
 ## 📬 Contact
 
-For queries or collaboration: `your.email@example.com`
+For queries or collaboration: `fathimanihla841@gmail.com`
 
 ---
 
